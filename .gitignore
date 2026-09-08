@@ -1,9 +1,21 @@
+# Python 環境與快取
 venv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
 .coverage
+
+# 機密設定
 .env
 .env.*
 !.env.example
+
+# 作業系統檔案
 .DS_Store
+
+# PDF 建立過程的暫存檔與渲染圖片
+tmp/
+
+# 編輯器或工具暫存
+.vscode/
+.idea/
