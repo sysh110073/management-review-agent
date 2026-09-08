@@ -1,0 +1,9 @@
+date,plant,incident_type,severity,description,status
+2026-07-12,Taoyuan,maintenance,low,定期設備保養完成,closed
+2026-08-18,Taichung,supplier,medium,部分材料到貨延遲,closed
+2026-08-25,Tainan,quality,medium,材料抽驗不良率上升,closed
+2026-09-03,Tainan,equipment,critical,主要產線設備異常停機,closed
+2026-09-05,Tainan,material,critical,材料批次品質不穩定造成額外耗損,investigating
+2026-09-08,Tainan,hr,high,製造部門多名員工提出離職,investigating
+2026-09-15,Taichung,finance,low,九月部分資料尚未關帳,open
+2026-09-20,Taoyuan,maintenance,low,例行設備校正完成,closed
